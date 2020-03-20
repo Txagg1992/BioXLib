@@ -1,0 +1,3 @@
+rootProject.name='BioXLib'
+include ':app'
+include ':bioxlib'
