@@ -18,6 +18,7 @@ Add the dependency to build.gradle(app) module:
 	}
         
 In the onCreate of your activity:
+	Add you own personalization to the string values:
 
         BioXLogin.BioXBuilder(this)
             .setTitle("BioMetric Login")
